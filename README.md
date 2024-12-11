@@ -1,2 +1,2 @@
 # SecureSacco
-This is a team project for Group 2 Fully online class
+This is a team project for Group 1 Fully online class
